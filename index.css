@@ -1,0 +1,11 @@
+body{
+    background-color: white;
+}
+.countdown-timer{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+}
